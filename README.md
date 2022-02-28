@@ -11,6 +11,7 @@
 
 ### Package manager
 - [npm](https://www.npmjs.com/)
+- [pnpm 🇺🇦](https://pnpm.io/) - https://twitter.com/pnpmjs/status/1498306992577957890
 - [yarn](https://yarnpkg.com/)
 - [composer](https://getcomposer.org/)
 - [pypi](https://pypi.org/)
@@ -119,6 +120,7 @@
 
 ### Пакетні менеджери
 - [npm](https://www.npmjs.com/)
+- [pnpm 🇺🇦](https://pnpm.io/) - https://twitter.com/pnpmjs/status/1498306992577957890
 - [yarn](https://yarnpkg.com/)
 - [composer](https://getcomposer.org/)
 - [pypi](https://pypi.org/)
