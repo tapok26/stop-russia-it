@@ -30,7 +30,7 @@
 ### Package manager
 | Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
 | ------------ | ----------- | ------------ | ---- | :-----: |
-| [pnpm](https://pnpm.io/) | | | | 🇺🇦|
+| [pnpm](https://pnpm.io/) | | | | [🇺🇦](https://twitter.com/pnpmjs/status/1498306992577957890)|
 | [npm](https://www.npmjs.com/) | [Isaac Z. Schlueter](https://twitter.com/izs) | [Isaac Z. Schlueter](https://www.linkedin.com/in/isaacschlueter/)
 | [yarn](https://yarnpkg.com/) | [Jeffrey Krause](https://twitter.com/geofree) |[Jeffrey Krause](https://www.linkedin.com/in/jeffreykrause) | | |
 | [composer](https://getcomposer.org/) | | | | |
@@ -62,7 +62,7 @@
 ### Design
 | Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
 | ------------ | ----------- | ------------ | ---- | :-----: |
-| [Figma](https://www.figma.com/) | | | | |
+| [Figma](https://www.figma.com/) | | | [Vote!](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263) | |
 | [Behance](https://www.behance.net/) | | | | |
 | [Dribble](https://dribbble.com/) | | | | |
 
@@ -89,6 +89,8 @@
 | [Ruby](https://ruby-doc.org/) | | | | |
 | [JAVA](https://docs.oracle.com/) | | | | |
 | [hexdocs](https://hexdocs.pm/) | | | | |
+| [Elixir](https://elixir-lang.org/) | | | | |
+| [Erlang](https://www.erlang.org/) | | | | |
 
 ### Freelance, Professional networks, News
 | Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
