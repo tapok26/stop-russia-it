@@ -36,6 +36,7 @@
 - [Portage](https://wiki.gentoo.org/wiki/Project:Portage)
 - [NuGet](https://www.nuget.org/)
 - [hexpm](https://hex.pm/)
+- [maven central](https://mvnrepository.com/repos/central)
 
 ### Version controls
 - [Github](https://github.com/)
@@ -154,6 +155,7 @@
 - [Portage](https://wiki.gentoo.org/wiki/Project:Portage)
 - [NuGet](https://www.nuget.org/)
 - [hexpm](https://hex.pm/)
+- [maven central](https://mvnrepository.com/repos/central)
 
 ### Контроль версій
 - [Github](https://github.com/)
