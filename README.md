@@ -1,4 +1,10 @@
-# An open letter from IT industry specialists to protect Ukraine from information warfare
+<p align="center">
+    <a href="https://github.com/stop-war-in-ukraine" target="_blank">
+        <img src="flag.png" height="100px">
+    </a>
+    <h1 align="center">An open letter from IT industry specialists to protect Ukraine from information warfare</h1>
+    <br>
+</p>
 
 <img src="https://img.shields.io/github/stars/stop-war-in-ukraine/stop-russia-it?label=Us%20Already&amp;style=for-the-badge&amp;query=%24.stars&amp;url=https://github.com/stop-war-in-ukraine/stop-russia-it/" style="max-width: 100%;">
 
