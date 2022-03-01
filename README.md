@@ -1,5 +1,7 @@
 # An open letter from IT industry specialists to protect Ukraine from information warfare
 
+![](https://img.shields.io/github/stars/stop-war-in-ukraine/stop-russia-it?label=Us%20Already&style=for-the-badge&query=%24.stars&url=https://github.com/stop-war-in-ukraine/stop-russia-it/)
+
 ## Important!
 ### Terrorists use Google maps tags to adjust the fires!! [Vote here!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
 ***
@@ -115,6 +117,8 @@
 ***
 
 # Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни
+
+![](https://img.shields.io/github/stars/stop-war-in-ukraine/stop-russia-it?label=Нас%20вже&style=for-the-badge&query=%24.stars&url=https://github.com/stop-war-in-ukraine/stop-russia-it/)
 
 ## Важливо!
 ### Терористи використовують теги на Google Maps, щоб коригувати вогонь!! [Голосуй тут!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
