@@ -102,6 +102,11 @@
 - **[Skype](https://www.skype.com/)**
     - Blocking access for communication
 
+### Cloud Providers
+- [AWS](https://aws.amazon.com/)
+- [Azure](https://azure.microsoft.com/)
+- [Google Cloud](https://cloud.google.com)
+
 # How help?
 ### Every developer, everyone involved in IT is important to us. 
 ### Add star and/or fork repository will help to spread faster and push companies to close access!
@@ -196,6 +201,11 @@
 - [KeyCDN](https://www.keycdn.com/)
 - [Rackspace](https://www.rackspace.com/)
 - [CacheFly](https://www.cachefly.com/)
+
+### Хмарні провайдери
+- [AWS](https://aws.amazon.com/)
+- [Azure](https://azure.microsoft.com/)
+- [Google Cloud](https://cloud.google.com)
 
 ### Компанії, Програмне забезпечення, Активації
 
