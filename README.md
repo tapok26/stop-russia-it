@@ -13,6 +13,8 @@
 
 ## Important!
 ### Terrorists use Google maps tags to adjust the fires!! [Vote here!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
+### Voting in Figma for the shutdown. [Vote!](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263)
+### [Real ways you can help Ukraine](https://how-to-help-ukraine-now.super.site/)
 ***
 
 ##### On February 24, 2022, the Russian Federation cowardly attacked independent Ukraine. They are waging a dirty information war against the whole world and direct armed warfare on the territory of Ukraine.
@@ -52,6 +54,11 @@
 - [Gitlab](https://about.gitlab.com/)
 - [Bitbucket](https://bitbucket.org/)
 - [Gitea](https://gitea.io/)
+
+### Design
+- [Figma](https://www.figma.com/) [-! Forum vote !-](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263)
+- [Behance](https://www.behance.net/)
+- [Dribble](https://dribbble.com/)
 
 ### Website questions and answers, forums
 - [Stack Overflow](https://stackoverflow.com/)
