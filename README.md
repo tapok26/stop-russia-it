@@ -6,7 +6,7 @@
     <br>
 </p>
 
-<img src="https://img.shields.io/github/stars/stop-war-in-ukraine/stop-russia-it?label=Us%20Already&amp;style=for-the-badge&amp;query=%24.stars&amp;url=https://github.com/stop-war-in-ukraine/stop-russia-it/" style="max-width: 100%;">
+![](https://img.shields.io/github/stars/stop-war-in-ukraine/stop-russia-it?label=US%20ALREADY&amp;style=for-the-badge)
 
 * **English**
 * [Ukrainian (Українською)](uk/README.md)
