@@ -14,6 +14,8 @@
 
 ## Важливо!
 ### Терористи використовують теги на Google Maps, щоб коригувати вогонь!! [Голосуй тут!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
+### На Figma збирають голоси на відключення. [Проголосуй!](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263)
+### [Реальні способи допомогти Україні](https://how-to-help-ukraine-now.super.site/)
 ***
 
 ##### 24 лютого 2022 року РФ підступно напала на незалежну Україну. Вони ведуть брудну інформаційну війну проти всього світу та пряму війну на территорії України.
@@ -54,7 +56,12 @@
 - [Bitbucket](https://bitbucket.org/)
 - [Gitea](https://gitea.io/)
 
-### Веб-сайт запитань і відповідей, форуми
+### Дизаїн
+- [Figma](https://www.figma.com/)
+- [Behance](https://www.behance.net/)
+- [Dribble](https://dribbble.com/)
+
+### Веб-сайт запитань і відповідей, форумы
 - [Stack Overflow](https://stackoverflow.com/)
 - [Stack Exchange](https://stackexchange.com/)
 - [Quora](https://www.quora.com/)
