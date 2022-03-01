@@ -10,6 +10,7 @@
 
 * **English**
 * [Ukrainian (Українською)](uk/README.md)
+* [Russian (Русский)](ru/README.md)
 
 ## Important!
 ### Terrorists use Google maps tags to adjust the fires!! [Vote here!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
