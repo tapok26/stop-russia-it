@@ -33,6 +33,7 @@
 - [Pacman](https://archlinux.org/pacman/)
 - [Portage](https://wiki.gentoo.org/wiki/Project:Portage)
 - [NuGet](https://www.nuget.org/)
+- [hexpm](https://hex.pm/)
 
 ### Version controls
 - [Github](https://github.com/)
@@ -58,6 +59,7 @@
 - [.NET, C, C++, C#, JAVA, etc.](https://docs.microsoft.com/en-us/documentation/)
 - [Ruby](https://ruby-doc.org/)
 - [JAVA](https://docs.oracle.com/)
+- [hexdocs](https://hexdocs.pm/)
 
 ### Freelance, Professional networks, News
 - [Upwork](https://www.upwork.com/)
@@ -146,6 +148,7 @@
 - [Pacman](https://archlinux.org/pacman/)
 - [Portage](https://wiki.gentoo.org/wiki/Project:Portage)
 - [NuGet](https://www.nuget.org/)
+- [hexpm](https://hex.pm/)
 
 ### Контроль версій
 - [Github](https://github.com/)
@@ -171,6 +174,7 @@
 - [.NET, C, C++, C#, JAVA, etc.](https://docs.microsoft.com/en-us/documentation/)
 - [Ruby](https://ruby-doc.org/)
 - [JAVA](https://docs.oracle.com/)
+- [hexdocs](https://hexdocs.pm/)
 
 ### Фриланс, професійні мережі, новини
 - [Upwork](https://www.upwork.com/)
