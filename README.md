@@ -1,5 +1,9 @@
 # An open letter from IT industry specialists to protect Ukraine from information warfare
 
+## Important!
+### Terrorists use Google maps tags to adjust the fires!! [Vote here!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
+***
+
 ##### On February 24, 2022, the Russian Federation insidiously attacked independent Ukraine. They are waging a dirty information war among the whole world and a direct war on the territory of Ukraine.
 ##### With the help of public hosting IT projects, package managers, forums, CDNs, and other resources that were created for the benefit of IT professionals and convenience, they are now used to wage war and destroy civilians. We believe that such resources make it possible to disseminate false information in Russia and can be used in the introduction of military action, namely source code, software, and other digital information. These resources also make it possible to finance and continue Russia's war with the help of the IT sector.
 
@@ -108,6 +112,10 @@
 ***
 
 # Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни
+
+## Важливо!
+### Терористи використовують теги на Google Maps, щоб коригувати вогонь!! [Голосуй тут!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
+***
 
 ##### 24 лютого 2022 року РФ підступно напала на незалежну Україну. Вони ведуть брудну інформаційну війну серед всього світу та пряму війну на территорії України.
 ##### За допомогою публічних хостинг ІТ-проектів, менеджерів пакетів, форумів, CDN та інших ресурсів, які були створенні для блага спеціалістів ІТ-сектору і зручності роботи, наразі використовуются для введення війни та знищення мирного населення. Вважаємо, що такі ресурси надають змогу поширювати хибну інформацію на території РФ та можуть бути використанні у введені війскових дій, а саме вихідний код, програмне забезпечення, інші види цифрової інформації. Також ці ресурси надають змогу фінасувати та продовжувати війну РФ за допомогою ІТ-сектору.
