@@ -1,4 +1,10 @@
-# An open letter from IT industry specialists to protect Ukraine from information warfare
+<p align="center">
+    <a href="https://github.com/stop-war-in-ukraine" target="_blank">
+        <img src="flag.png" height="100px">
+    </a>
+    <h1 align="center">An open letter from IT industry specialists to protect Ukraine from information warfare</h1>
+    <br>
+</p>
 
 ## Important!
 ### Terrorists use Google maps tags to adjust the fires!! [Vote here!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
