@@ -119,4 +119,9 @@
 ### Add star and/or fork repository will help to spread faster and push companies to close access!
 ### Pin in your profile.
 
+# FAQ
+### If I am living in Russia/Belarus, but I do not support this war, what should I do?
+Go to anti-war meetings and demonstrations, donate money to Ukrainian army or charity organizations.
+Remember that this war continues due to your silent approval!
+
 # Glory to Ukraine! Glory to heroes!
