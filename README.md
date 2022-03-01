@@ -4,14 +4,14 @@
 ### Terrorists use Google maps tags to adjust the fires!! [Vote here!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
 ***
 
-##### On February 24, 2022, the Russian Federation insidiously attacked independent Ukraine. They are waging a dirty information war among the whole world and a direct war on the territory of Ukraine.
-##### With the help of public hosting IT projects, package managers, forums, CDNs, and other resources that were created for the benefit of IT professionals and convenience, they are now used to wage war and destroy civilians. We believe that such resources make it possible to disseminate false information in Russia and can be used in the introduction of military action, namely source code, software, and other digital information. These resources also make it possible to finance and continue Russia's war with the help of the IT sector.
+##### On February 24, 2022, the Russian Federation cowardly attacked independent Ukraine. They are waging a dirty information war against the whole world and direct armed warfare on the territory of Ukraine.
+##### The publicly available IT projects, package managers, forums, CDNs, and other resources created for the benefit and convenience of IT professionals are now used to wage war and destroy innocent civilians. We also believe that these resources (i.e. source code, software, and other digital information) help disseminate false information in Russia and can be used to conduct military operations. These resources also make it possible to finance and continue the war in Ukraine with the help of the Russian IT sector.
 
-## We call you not to help the Russian IT sector in any activity.
+## We call you to stop helping the Russian IT sector in any activity.
 
-## We call not to use information resources and not to finance the Russian IT sector, because it finances the war.
+## We call you to stop using Russian information resources and not finance the Russian IT sector, because this way you finance the war.
 
-## We call on the resources used by the Russian IT sector to restrict any traffic to and access to these networks from Russia:
+## We call to the public resources providers used by the Russian IT sector to restrict any traffic and access to these networks from Russia:
 
 ### Package manager
 - [npm](https://www.npmjs.com/)
@@ -117,8 +117,8 @@
 ### Терористи використовують теги на Google Maps, щоб коригувати вогонь!! [Голосуй тут!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
 ***
 
-##### 24 лютого 2022 року РФ підступно напала на незалежну Україну. Вони ведуть брудну інформаційну війну серед всього світу та пряму війну на территорії України.
-##### За допомогою публічних хостинг ІТ-проектів, менеджерів пакетів, форумів, CDN та інших ресурсів, які були створенні для блага спеціалістів ІТ-сектору і зручності роботи, наразі використовуются для введення війни та знищення мирного населення. Вважаємо, що такі ресурси надають змогу поширювати хибну інформацію на території РФ та можуть бути використанні у введені війскових дій, а саме вихідний код, програмне забезпечення, інші види цифрової інформації. Також ці ресурси надають змогу фінасувати та продовжувати війну РФ за допомогою ІТ-сектору.
+##### 24 лютого 2022 року РФ підступно напала на незалежну Україну. Вони ведуть брудну інформаційну війну проти всього світу та пряму війну на территорії України.
+##### Нараіз публічні хостинги ІТ-проектів, менеджери пакетів, форуми, CDN та інших ресурси, створенні для блага спеціалістів ІТ-сектору і зручності роботи, використовуются для введення війни та знищення мирного населення. Вважаємо, що такі ресурси надають змогу поширювати хибну інформацію на території РФ та можуть бути використанні у ведені війскових дій, а саме вихідний код, програмне забезпечення, інші види цифрової інформації. Також ці ресурси надають змогу фінасувати та продовжувати війну РФ за допомогою ІТ-сектору.
 
 ## Ми закликаємо не домогати ІТ-сектору РФ у будь-якій діяльності.
 
