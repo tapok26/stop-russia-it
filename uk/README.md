@@ -6,12 +6,10 @@
     <br>
 </p>
 
-<img src="https://img.shields.io/github/stars/stop-war-in-ukraine/stop-russia-it?label=Us%20Already&amp;style=for-the-badge&amp;query=%24.stars&amp;url=https://github.com/stop-war-in-ukraine/stop-russia-it/" style="max-width: 100%;">
+![](https://img.shields.io/github/stars/stop-war-in-ukraine/stop-russia-it?label=Нас%20вже&amp;style=for-the-badge)
 
 * [English](../README.md)
 * **Ukrainian (Українською)**
-
-![](https://img.shields.io/github/stars/stop-war-in-ukraine/stop-russia-it?label=Нас%20вже&style=for-the-badge&query=%24.stars&url=https://github.com/stop-war-in-ukraine/stop-russia-it/)
 
 ## Важливо!
 ### Терористи використовують теги на Google Maps, щоб коригувати вогонь!! [Голосуй тут!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
