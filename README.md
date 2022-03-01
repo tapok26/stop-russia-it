@@ -27,78 +27,90 @@
 ## We call to the public resources providers used by the Russian IT sector to restrict any traffic and access to these networks from Russia:
 
 ### Package manager
-- [npm](https://www.npmjs.com/)
-- [pnpm 🇺🇦](https://pnpm.io/) - https://twitter.com/pnpmjs/status/1498306992577957890
-- [yarn](https://yarnpkg.com/)
-- [composer](https://getcomposer.org/)
-- [pypi](https://pypi.org/)
-- [pip](https://pip.pypa.io/)
-- [Docker Hub](https://hub.docker.com/)
-- [GO](https://pkg.go.dev/)
-- [Ruby Version Manager](https://rvm.io/)
-- [RubyGems](https://rubygems.org/)
-- [bower](https://bower.io/)
-- [Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/)
-- [RPM](http://rpm.org/)
-- [yum](http://yum.baseurl.org/)
-- [dpkg](https://wiki.debian.org/Teams/Dpkg)
-- [Advanced Packaging Tool / apt](https://tracker.debian.org/pkg/apt)
-- [Pacman](https://archlinux.org/pacman/)
-- [Portage](https://wiki.gentoo.org/wiki/Project:Portage)
-- [NuGet](https://www.nuget.org/)
-- [hexpm](https://hex.pm/)
-- [maven central](https://mvnrepository.com/repos/central)
+| Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
+| ------------ | ----------- | ------------ | ---- | :-----: |
+| [pnpm](https://pnpm.io/) | | | | 🇺🇦|
+| [npm](https://www.npmjs.com/) | [Isaac Z. Schlueter](https://twitter.com/izs) | [Isaac Z. Schlueter](https://www.linkedin.com/in/isaacschlueter/)
+| [yarn](https://yarnpkg.com/) | [Jeffrey Krause](https://twitter.com/geofree) |[Jeffrey Krause](https://www.linkedin.com/in/jeffreykrause) | | |
+| [composer](https://getcomposer.org/) | | | | |
+| [pypi](https://pypi.org/) | | | | |
+| [Docker Hub](https://hub.docker.com/) | | | | |
+| [GO](https://pkg.go.dev/) | | | | |
+| [Ruby Version Manager](https://rvm.io/) | | | | |
+| [RubyGems](https://rubygems.org/) | | | | |
+| [bower](https://bower.io/) | | | | |
+| [Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/) | | | | |
+| [RPM](http://rpm.org/) | | | | |
+| [yum](http://yum.baseurl.org/) | | | | |
+| [dpkg](https://wiki.debian.org/Teams/Dpkg) | | | | |
+| [Advanced Packaging Tool / apt](https://tracker.debian.org/pkg/apt) | | | | |
+| [Pacman](https://archlinux.org/pacman/) | | | | |
+| [Portage](https://wiki.gentoo.org/wiki/Project:Portage) | | | | |
+| [NuGet](https://www.nuget.org/) | | | | |
+| [hexpm](https://hex.pm/) | | | | |
+| [maven central](https://mvnrepository.com/repos/central) | | | | |
 
 ### Version controls
-- [Github](https://github.com/)
-- [Gitlab](https://about.gitlab.com/)
-- [Bitbucket](https://bitbucket.org/)
-- [Gitea](https://gitea.io/)
+| Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
+| ------------ | ----------- | ------------ | ---- | :-----: |
+| [Github](https://github.com/) | | | | |
+| [Gitlab](https://about.gitlab.com/) | | | | |
+| [Bitbucket](https://bitbucket.org/) | | | | |
+| [Gitea](https://gitea.io/) | | | | |
 
 ### Design
-- [Figma](https://www.figma.com/) [-! Forum vote !-](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263)
-- [Behance](https://www.behance.net/)
-- [Dribble](https://dribbble.com/)
+| Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
+| ------------ | ----------- | ------------ | ---- | :-----: |
+| [Figma](https://www.figma.com/) | | | | |
+| [Behance](https://www.behance.net/) | | | | |
+| [Dribble](https://dribbble.com/) | | | | |
 
 ### Website questions and answers, forums
-- [Stack Overflow](https://stackoverflow.com/)
-- [Stack Exchange](https://stackexchange.com/)
-- [Quora](https://www.quora.com/)
-- [Medium](https://medium.com/)
-- [Hackernoon](https://hackernoon.com/)
-- [Raspberry Pi Forums](https://forums.raspberrypi.com/)
-- [Arduino Forums](https://forum.arduino.cc/)
+| Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
+| ------------ | ----------- | ------------ | ---- | :-----: |
+| [Stack Overflow](https://stackoverflow.com/) | | | | |
+| [Stack Exchange](https://stackexchange.com/) | | | | |
+| [Quora](https://www.quora.com/) | | | | |
+| [Medium](https://medium.com/) | | | | |
+| [Hackernoon](https://hackernoon.com/) | | | | |
+| [Raspberry Pi Forums](https://forums.raspberrypi.com/) | | | | |
+| [Arduino Forums](https://forum.arduino.cc/) | | | | |
 
 ### Documentation, Information portals, etc.
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [W3C](https://www.w3.org/)
-- [WHATWG](https://whatwg.org/)
-- [PHP](https://www.php.net/)
-- [GO](https://go.dev/)
-- [.NET, C, C++, C#, JAVA, etc.](https://docs.microsoft.com/en-us/documentation/)
-- [Ruby](https://ruby-doc.org/)
-- [JAVA](https://docs.oracle.com/)
-- [hexdocs](https://hexdocs.pm/)
+| Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
+| ------------ | ----------- | ------------ | ---- | :-----: |
+| [MDN Web Docs](https://developer.mozilla.org/) | | | | |
+| [W3C](https://www.w3.org/) | | | | |
+| [WHATWG](https://whatwg.org/) | | | | |
+| [PHP](https://www.php.net/) | | | | |
+| [GO](https://go.dev/) | | | | |
+| [.NET, C, C++, C#, JAVA, etc.](https://docs.microsoft.com/en-us/documentation/) | | | | |
+| [Ruby](https://ruby-doc.org/) | | | | |
+| [JAVA](https://docs.oracle.com/) | | | | |
+| [hexdocs](https://hexdocs.pm/) | | | | |
 
 ### Freelance, Professional networks, News
-- [Upwork](https://www.upwork.com/)
-- [Fiverr](https://www.fiverr.com/)
-- [Freelancer](https://www.freelancer.com/)
-- [Linkedin](https://linkedin.com/)
-- [oDeskWork](https://odeskwork.com/)
-- [DOU](https://dou.ua/)
-- [Unetway](https://unetway.com/)
-- [Sitepoint](https://www.sitepoint.com/)
-- [Hacker News](https://news.ycombinator.com/)
-- [TechCrunch](https://techcrunch.com/)
+| Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
+| ------------ | ----------- | ------------ | ---- | :-----: |
+| [Upwork](https://www.upwork.com/) | | | | |
+| [Fiverr](https://www.fiverr.com/) | | | | |
+| [Freelancer](https://www.freelancer.com/) | | | | |
+| [Linkedin](https://linkedin.com/) | | | | |
+| [oDeskWork](https://odeskwork.com/) | | | | |
+| [Unetway](https://unetway.com/) | | | | |
+| [Sitepoint](https://www.sitepoint.com/) | | | | |
+| [Hacker News](https://news.ycombinator.com/) | | | | |
+| [TechCrunch](https://techcrunch.com/) | | | | |
 
 ### CDN, Security, Protection, Monitoring
-- [StackPath](https://www.stackpath.com/)
-- [Sucuri](https://sucuri.net/)
-- [Cloudflare](https://www.cloudflare.com/)
-- [KeyCDN](https://www.keycdn.com/)
-- [Rackspace](https://www.rackspace.com/)
-- [CacheFly](https://www.cachefly.com/)
+| Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
+| ------------ | ----------- | ------------ | ---- | :-----: |
+| [StackPath](https://www.stackpath.com/) | | | | |
+| [Sucuri](https://sucuri.net/) | | | | |
+| [Cloudflare](https://www.cloudflare.com/) | | | | |
+| [KeyCDN](https://www.keycdn.com/) | | | | |
+| [Rackspace](https://www.rackspace.com/) | | | | |
+| [CacheFly](https://www.cachefly.com/) | | | | |
 
 ### Companies, Software, Activations
 

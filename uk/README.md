@@ -27,78 +27,90 @@
 ## Ми закликаємо ресурси якими користуються ІТ-сектор з РФ обмежити будь-який трафік до цих мереж та доступ:
 
 ### Пакетні менеджери
-- [npm](https://www.npmjs.com/)
-- [pnpm 🇺🇦](https://pnpm.io/) - https://twitter.com/pnpmjs/status/1498306992577957890
-- [yarn](https://yarnpkg.com/)
-- [composer](https://getcomposer.org/)
-- [pypi](https://pypi.org/)
-- [pip](https://pip.pypa.io/)
-- [Docker Hub](https://hub.docker.com/)
-- [GO](https://pkg.go.dev/)
-- [Ruby Version Manager](https://rvm.io/)
-- [RubyGems](https://rubygems.org/)
-- [bower](https://bower.io/)
-- [Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/)
-- [RPM](http://rpm.org/)
-- [yum](http://yum.baseurl.org/)
-- [dpkg](https://wiki.debian.org/Teams/Dpkg)
-- [Advanced Packaging Tool / apt](https://tracker.debian.org/pkg/apt)
-- [Pacman](https://archlinux.org/pacman/)
-- [Portage](https://wiki.gentoo.org/wiki/Project:Portage)
-- [NuGet](https://www.nuget.org/)
-- [hexpm](https://hex.pm/)
-- [maven central](https://mvnrepository.com/repos/central)
+| Ім'я         | CEO Twitter | CEO Linkedin | Голосування | Разом з 🇺🇦 |
+| ------------ | ----------- | ------------ | ----------- |  :-----:  |
+| [pnpm](https://pnpm.io/) | | | | 🇺🇦|
+| [npm](https://www.npmjs.com/) | [Isaac Z. Schlueter](https://twitter.com/izs) | [Isaac Z. Schlueter](https://www.linkedin.com/in/isaacschlueter/)
+| [yarn](https://yarnpkg.com/) | [Jeffrey Krause](https://twitter.com/geofree) |[Jeffrey Krause](https://www.linkedin.com/in/jeffreykrause) | | |
+| [composer](https://getcomposer.org/) | | | | |
+| [pypi](https://pypi.org/) | | | | |
+| [Docker Hub](https://hub.docker.com/) | | | | |
+| [GO](https://pkg.go.dev/) | | | | |
+| [Ruby Version Manager](https://rvm.io/) | | | | |
+| [RubyGems](https://rubygems.org/) | | | | |
+| [bower](https://bower.io/) | | | | |
+| [Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/) | | | | |
+| [RPM](http://rpm.org/) | | | | |
+| [yum](http://yum.baseurl.org/) | | | | |
+| [dpkg](https://wiki.debian.org/Teams/Dpkg) | | | | |
+| [Advanced Packaging Tool / apt](https://tracker.debian.org/pkg/apt) | | | | |
+| [Pacman](https://archlinux.org/pacman/) | | | | |
+| [Portage](https://wiki.gentoo.org/wiki/Project:Portage) | | | | |
+| [NuGet](https://www.nuget.org/) | | | | |
+| [hexpm](https://hex.pm/) | | | | |
+| [maven central](https://mvnrepository.com/repos/central) | | | | |
 
 ### Контроль версій
-- [Github](https://github.com/)
-- [Gitlab](https://about.gitlab.com/)
-- [Bitbucket](https://bitbucket.org/)
-- [Gitea](https://gitea.io/)
+| Ім'я         | CEO Twitter | CEO Linkedin | Голосування | Разом з 🇺🇦 |
+| ------------ | ----------- | ------------ | ----------- |  :-----:  |
+| [Github](https://github.com/) | | | | |
+| [Gitlab](https://about.gitlab.com/) | | | | |
+| [Bitbucket](https://bitbucket.org/) | | | | |
+| [Gitea](https://gitea.io/) | | | | |
 
 ### Дизаїн
-- [Figma](https://www.figma.com/)
-- [Behance](https://www.behance.net/)
-- [Dribble](https://dribbble.com/)
+| Ім'я         | CEO Twitter | CEO Linkedin | Голосування | Разом з 🇺🇦 |
+| ------------ | ----------- | ------------ | ----------- |  :-----:  |
+| [Figma](https://www.figma.com/) | | | | |
+| [Behance](https://www.behance.net/) | | | | |
+| [Dribble](https://dribbble.com/) | | | | |
 
 ### Веб-сайт запитань і відповідей, форумы
-- [Stack Overflow](https://stackoverflow.com/)
-- [Stack Exchange](https://stackexchange.com/)
-- [Quora](https://www.quora.com/)
-- [Medium](https://medium.com/)
-- [Hackernoon](https://hackernoon.com/)
-- [Raspberry Pi Forums](https://forums.raspberrypi.com/)
-- [Arduino Forums](https://forum.arduino.cc/)
+| Ім'я         | CEO Twitter | CEO Linkedin | Голосування | Разом з 🇺🇦 |
+| ------------ | ----------- | ------------ | ----------- |  :-----:  |
+| [Stack Overflow](https://stackoverflow.com/) | | | | |
+| [Stack Exchange](https://stackexchange.com/) | | | | |
+| [Quora](https://www.quora.com/) | | | | |
+| [Medium](https://medium.com/) | | | | |
+| [Hackernoon](https://hackernoon.com/) | | | | |
+| [Raspberry Pi Forums](https://forums.raspberrypi.com/) | | | | |
+| [Arduino Forums](https://forum.arduino.cc/) | | | | |
 
 ### Документація, інформаційні портали, тощо
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [W3C](https://www.w3.org/)
-- [WHATWG](https://whatwg.org/)
-- [PHP](https://www.php.net/)
-- [GO](https://go.dev/)
-- [.NET, C, C++, C#, JAVA, etc.](https://docs.microsoft.com/en-us/documentation/)
-- [Ruby](https://ruby-doc.org/)
-- [JAVA](https://docs.oracle.com/)
-- [hexdocs](https://hexdocs.pm/)
+| Ім'я         | CEO Twitter | CEO Linkedin | Голосування | Разом з 🇺🇦 |
+| ------------ | ----------- | ------------ | ----------- |  :-----:  |
+| [MDN Web Docs](https://developer.mozilla.org/) | | | | |
+| [W3C](https://www.w3.org/) | | | | |
+| [WHATWG](https://whatwg.org/) | | | | |
+| [PHP](https://www.php.net/) | | | | |
+| [GO](https://go.dev/) | | | | |
+| [.NET, C, C++, C#, JAVA, etc.](https://docs.microsoft.com/en-us/documentation/) | | | | |
+| [Ruby](https://ruby-doc.org/) | | | | |
+| [JAVA](https://docs.oracle.com/) | | | | |
+| [hexdocs](https://hexdocs.pm/) | | | | |
 
 ### Фриланс, професійні мережі, новини
-- [Upwork](https://www.upwork.com/)
-- [Fiverr](https://www.fiverr.com/)
-- [Freelancer](https://www.freelancer.com/)
-- [Linkedin](https://linkedin.com/)
-- [oDeskWork](https://odeskwork.com/)
-- [DOU](https://dou.ua/)
-- [Unetway](https://unetway.com/)
-- [Sitepoint](https://www.sitepoint.com/)
-- [Hacker News](https://news.ycombinator.com/)
-- [TechCrunch](https://techcrunch.com/)
+| Ім'я         | CEO Twitter | CEO Linkedin | Голосування | Разом з 🇺🇦 |
+| ------------ | ----------- | ------------ | ----------- |  :-----:  |
+| [Upwork](https://www.upwork.com/) | | | | |
+| [Fiverr](https://www.fiverr.com/) | | | | |
+| [Freelancer](https://www.freelancer.com/) | | | | |
+| [Linkedin](https://linkedin.com/) | | | | |
+| [oDeskWork](https://odeskwork.com/) | | | | |
+| [Unetway](https://unetway.com/) | | | | |
+| [Sitepoint](https://www.sitepoint.com/) | | | | |
+| [Hacker News](https://news.ycombinator.com/) | | | | |
+| [TechCrunch](https://techcrunch.com/) | | | | |
 
 ### CDN, Безпека, Захист, Моніторинг
-- [StackPath](https://www.stackpath.com/)
-- [Sucuri](https://sucuri.net/)
-- [Cloudflare](https://www.cloudflare.com/)
-- [KeyCDN](https://www.keycdn.com/)
-- [Rackspace](https://www.rackspace.com/)
-- [CacheFly](https://www.cachefly.com/)
+| Ім'я         | CEO Twitter | CEO Linkedin | Голосування | Разом з 🇺🇦 |
+| ------------ | ----------- | ------------ | ----------- |  :-----:  |
+| [StackPath](https://www.stackpath.com/) | | | | |
+| [Sucuri](https://sucuri.net/) | | | | |
+| [Cloudflare](https://www.cloudflare.com/) | | | | |
+| [KeyCDN](https://www.keycdn.com/) | | | | |
+| [Rackspace](https://www.rackspace.com/) | | | | |
+| [CacheFly](https://www.cachefly.com/) | | | | |
 
 ### Компанії, Програмне забезпечення, Активації
 
