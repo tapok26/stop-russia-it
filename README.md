@@ -100,7 +100,6 @@
          <td><a href="https://twitter.com/rvm_io" rel="nofollow">rvm</a> - <a href="https://twitter.com/dhh" rel="nofollow">David Heinemeier Hansson</a></td>
          <td></td>
          <td></td>
-         <td></td>
          <td align="center"></td>
       </tr>
       <tr>
