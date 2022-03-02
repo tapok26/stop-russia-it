@@ -191,74 +191,424 @@
 </table>
 
 ### Контроль версий
-| Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
-| ------------ | ----------- | ------------ | ----------- |  :-------:  |
-| [Github](https://github.com/) | | | | |
-| [Gitlab](https://about.gitlab.com/) | | | | |
-| [Bitbucket](https://bitbucket.org/) | | | | |
-| [Gitea](https://gitea.io/) | | | | |
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://github.com/">Github</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://about.gitlab.com/" rel="nofollow">Gitlab</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://bitbucket.org/" rel="nofollow">Bitbucket</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://gitea.io/" rel="nofollow">Gitea</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
 ### Дизаин
-| Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
-| ------------ | ----------- | ------------ | ----------- |  :-------:  |
-| [Figma](https://www.figma.com/) | | | [Голосуй!](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263) | |
-| [Behance](https://www.behance.net/) | | | | |
-| [Dribble](https://dribbble.com/) | | | | |
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://www.figma.com/" rel="nofollow">Figma</a></td>
+         <td></td>
+         <td></td>
+         <td><a href="https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263" rel="nofollow">Голосуй!</a></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.behance.net/" rel="nofollow">Behance</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://dribbble.com/" rel="nofollow">Dribble</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
 ### Веб-сайт вопросов и ответов, форумы
-| Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
-| ------------ | ----------- | ------------ | ----------- |  :-------:  |
-| [Stack Overflow](https://stackoverflow.com/) | | | | |
-| [Stack Exchange](https://stackexchange.com/) | | | | |
-| [Quora](https://www.quora.com/) | | | | |
-| [Medium](https://medium.com/) | | | | |
-| [Hackernoon](https://hackernoon.com/) | | | | |
-| [Raspberry Pi Forums](https://forums.raspberrypi.com/) | | | | |
-| [Arduino Forums](https://forum.arduino.cc/) | | | | |
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://stackoverflow.com/" rel="nofollow">Stack Overflow</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://stackexchange.com/" rel="nofollow">Stack Exchange</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.quora.com/" rel="nofollow">Quora</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://medium.com/" rel="nofollow">Medium</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://hackernoon.com/" rel="nofollow">Hackernoon</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://forums.raspberrypi.com/" rel="nofollow">Raspberry Pi Forums</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://forum.arduino.cc/" rel="nofollow">Arduino Forums</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
 ### Документация, информационные порталы, прочее
-| Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
-| ------------ | ----------- | ------------ | ----------- |  :-------:  |
-| [MDN Web Docs](https://developer.mozilla.org/) | | | | |
-| [W3C](https://www.w3.org/) | | | | |
-| [WHATWG](https://whatwg.org/) | | | | |
-| [PHP](https://www.php.net/) | | | | |
-| [GO](https://go.dev/) | | | | |
-| [.NET, C, C++, C#, JAVA, etc.](https://docs.microsoft.com/en-us/documentation/) | | | | |
-| [Ruby](https://ruby-doc.org/) | | | | |
-| [JAVA](https://docs.oracle.com/) | | | | |
-| [hexdocs](https://hexdocs.pm/) | | | | |
-| [Elixir](https://elixir-lang.org/) | | | | |
-| [Erlang](https://www.erlang.org/) | | | | |
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://developer.mozilla.org/" rel="nofollow">MDN Web Docs</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.w3.org/" rel="nofollow">W3C</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://whatwg.org/" rel="nofollow">WHATWG</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.php.net/" rel="nofollow">PHP</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://go.dev/" rel="nofollow">GO</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://docs.microsoft.com/en-us/documentation/" rel="nofollow">.NET, C, C++, C#, JAVA, etc.</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://ruby-doc.org/" rel="nofollow">Ruby</a></td>
+         <td><a href="https://twitter.com/yukihiro_matz" rel="nofollow">Yukihiro Matzmotto</a></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://docs.oracle.com/" rel="nofollow">JAVA</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://hexdocs.pm/" rel="nofollow">hexdocs</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://elixir-lang.org/" rel="nofollow">Elixir</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.erlang.org/" rel="nofollow">Erlang</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
 ### Фриланс, профессиональные сети, новости
-| Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
-| ------------ | ----------- | ------------ | ----------- |  :-------:  |
-| [Upwork](https://www.upwork.com/) | | | | |
-| [Fiverr](https://www.fiverr.com/) | | | | |
-| [Freelancer](https://www.freelancer.com/) | | | | |
-| [Linkedin](https://linkedin.com/) | | | | |
-| [oDeskWork](https://odeskwork.com/) | | | | |
-| [Unetway](https://unetway.com/) | | | | |
-| [Sitepoint](https://www.sitepoint.com/) | | | | |
-| [Hacker News](https://news.ycombinator.com/) | | | | |
-| [TechCrunch](https://techcrunch.com/) | | | | |
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://www.upwork.com/" rel="nofollow">Upwork</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.fiverr.com/" rel="nofollow">Fiverr</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.freelancer.com/" rel="nofollow">Freelancer</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://linkedin.com/" rel="nofollow">Linkedin</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://odeskwork.com/" rel="nofollow">oDeskWork</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://unetway.com/" rel="nofollow">Unetway</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.sitepoint.com/" rel="nofollow">Sitepoint</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://news.ycombinator.com/" rel="nofollow">Hacker News</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://techcrunch.com/" rel="nofollow">TechCrunch</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
 ### CDN, Безопасность, Защита, Мониторинг
-| Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
-| ------------ | ----------- | ------------ | ----------- |  :-------:  |
-| [StackPath](https://www.stackpath.com/) | | | | |
-| [Sucuri](https://sucuri.net/) | | | | |
-| [Cloudflare](https://www.cloudflare.com/) | | | | |
-| [KeyCDN](https://www.keycdn.com/) | | | | |
-| [Rackspace](https://www.rackspace.com/) | | | | |
-| [CacheFly](https://www.cachefly.com/) | | | | |
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://www.stackpath.com/" rel="nofollow">StackPath</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://sucuri.net/" rel="nofollow">Sucuri</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.cloudflare.com/" rel="nofollow">Cloudflare</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.keycdn.com/" rel="nofollow">KeyCDN</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.rackspace.com/" rel="nofollow">Rackspace</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.cachefly.com/" rel="nofollow">CacheFly</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
-### Игровые сервисы
-| Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
-| ------------ | ----------- | ------------ | ----------- |  :-------:  |
-| [PlayStation](https://store.playstation.com/) | | | | |
-| [Steam](https://store.steampowered.com/) | | | | |
+### Развлекательные сервисы
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://store.playstation.com/" rel="nofollow">PlayStation</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://store.steampowered.com/" rel="nofollow">Steam</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
 ### Компании, Программное обеспечение, Активации
 
