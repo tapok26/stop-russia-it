@@ -638,9 +638,43 @@
     - Blocking access for communication
 
 ### Cloud Providers
-- [AWS](https://aws.amazon.com/)
-- [Azure](https://azure.microsoft.com/)
-- [Google Cloud](https://cloud.google.com)
+<table>
+   <thead>
+      <tr>
+         <th>Name</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Vote</th>
+         <th align="center">
+            With 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://aws.amazon.com/">AWS</a></td>
+         <td><a href="https://twitter.com/aselipsky" rel="nofollow">Adam Selipsky</a></td>
+         <td><a href="https://www.linkedin.com/in/adamselipsky" rel="nofollow">Adam Selipsky</a></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://azure.microsoft.com/" rel="nofollow">Azure</a></td>
+         <td><a href="https://twitter.com/satyanadella" rel="nofollow">Satya Nadella</a></td>
+         <td><a href="https://www.linkedin.com/in/satyanadella" rel="nofollow">Satya Nadella</a></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://cloud.google.com/" rel="nofollow">Google Cloud</a></td>
+         <td><a href="https://twitter.com/ThomasOrTK" rel="nofollow">Thomas Kurian</a></td>
+         <td><a href="https://www.linkedin.com/in/thomas-kurian-469b6219" rel="nofollow">Thomas Kurian</a></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
 # How help?
 ### Every developer, everyone involved in IT is important to us. 
