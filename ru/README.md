@@ -29,28 +29,166 @@
 ## Мы призываем ресурсы, которыми пользуется ИТ-сектор из РФ, ограничить любой трафик в этих сетях и доступ:
 
 ### Пакетные менеджеры
-| Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
-| ------------ | ----------- | ------------ | ----------- |  :-----:  |
-| [pnpm](https://pnpm.io/) | | | | [🇺🇦](https://twitter.com/pnpmjs/status/1498306992577957890)|
-| [npm](https://www.npmjs.com/) | [Isaac Z. Schlueter](https://twitter.com/izs) | [Isaac Z. Schlueter](https://www.linkedin.com/in/isaacschlueter/)
-| [yarn](https://yarnpkg.com/) | [Jeffrey Krause](https://twitter.com/geofree) |[Jeffrey Krause](https://www.linkedin.com/in/jeffreykrause) | | |
-| [composer](https://getcomposer.org/) | | | | |
-| [pypi](https://pypi.org/) | | | | |
-| [Docker Hub](https://hub.docker.com/) | | | | |
-| [GO](https://pkg.go.dev/) | | | | |
-| [Ruby Version Manager](https://rvm.io/) | | | | |
-| [RubyGems](https://rubygems.org/) | | | | |
-| [bower](https://bower.io/) | | | | |
-| [Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/) | | | | |
-| [RPM](http://rpm.org/) | | | | |
-| [yum](http://yum.baseurl.org/) | | | | |
-| [dpkg](https://wiki.debian.org/Teams/Dpkg) | | | | |
-| [Advanced Packaging Tool / apt](https://tracker.debian.org/pkg/apt) | | | | |
-| [Pacman](https://archlinux.org/pacman/) | | | | |
-| [Portage](https://wiki.gentoo.org/wiki/Project:Portage) | | | | |
-| [NuGet](https://www.nuget.org/) | | | | |
-| [hexpm](https://hex.pm/) | | | | |
-| [maven central](https://mvnrepository.com/repos/central) | | | | |
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://pnpm.io/" rel="nofollow">pnpm</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://twitter.com/pnpmjs/status/1498306992577957890" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
+      </tr>
+      <tr>
+         <td><a href="https://www.npmjs.com/" rel="nofollow">npm</a></td>
+         <td><a href="https://twitter.com/izs" rel="nofollow">Isaac Z. Schlueter</a></td>
+         <td><a href="https://www.linkedin.com/in/isaacschlueter/" rel="nofollow">Isaac Z. Schlueter</a></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://yarnpkg.com/" rel="nofollow">yarn</a></td>
+         <td><a href="https://twitter.com/geofree" rel="nofollow">Jeffrey Krause</a></td>
+         <td><a href="https://www.linkedin.com/in/jeffreykrause" rel="nofollow">Jeffrey Krause</a></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://getcomposer.org/" rel="nofollow">composer</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://pypi.org/" rel="nofollow">pypi</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://hub.docker.com/" rel="nofollow">Docker Hub</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://pkg.go.dev/" rel="nofollow">GO</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://rvm.io/" rel="nofollow">Ruby Version Manager</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://rubygems.org/" rel="nofollow">RubyGems</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://bower.io/" rel="nofollow">bower</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://docs.microsoft.com/en-us/windows/package-manager/" rel="nofollow">Windows Package Manager</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="http://rpm.org/" rel="nofollow">RPM</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="http://yum.baseurl.org/" rel="nofollow">yum</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://wiki.debian.org/Teams/Dpkg" rel="nofollow">dpkg</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://tracker.debian.org/pkg/apt" rel="nofollow">Advanced Packaging Tool / apt</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://archlinux.org/pacman/" rel="nofollow">Pacman</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://wiki.gentoo.org/wiki/Project:Portage" rel="nofollow">Portage</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.nuget.org/" rel="nofollow">NuGet</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://hex.pm/" rel="nofollow">hexpm</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://mvnrepository.com/repos/central" rel="nofollow">maven central</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
 
 ### Контроль версий
 | Имя          | CEO Twitter | CEO Linkedin | Голосование | Вместе с 🇺🇦 |
