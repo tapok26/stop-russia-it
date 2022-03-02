@@ -83,8 +83,8 @@
       </tr>
       <tr>
          <td><a href="https://hub.docker.com/" rel="nofollow">Docker Hub</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/scottcjohnston" rel="nofollow">Scott Johnson</a></td>
+         <td><a href="https://www.linkedin.com/in/scottcjohnston/" rel="nofollow">Scott Johnson</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
@@ -291,14 +291,15 @@
    <tbody>
       <tr>
          <td><a href="https://stackoverflow.com/" rel="nofollow">Stack Overflow</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/pchandrasekar" rel="nofollow">Prashanth Chandrasekar</a></td>
+         <td><a href="https://www.linkedin.com/in/pchandrasekar" rel="nofollow">Prashanth Chandrasekar</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://stackexchange.com/" rel="nofollow">Stack Exchange</a></td>
-         <td></td>
+         <td><a href="https://twitter.com/pchandrasekar" rel="nofollow">Prashanth Chandrasekar</a></td>
+         <td><a href="https://www.linkedin.com/in/pchandrasekar" rel="nofollow">Prashanth Chandrasekar</a></td>
          <td></td>
          <td></td>
          <td align="center"></td>
