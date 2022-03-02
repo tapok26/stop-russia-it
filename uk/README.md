@@ -606,6 +606,13 @@
          <td></td>
          <td align="center"></td>
       </tr>
+      <tr>
+         <td><a href="https://www.wix.com/" rel="nofollow">Wix</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
    </tbody>
 </table>
 

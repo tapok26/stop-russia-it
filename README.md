@@ -577,7 +577,7 @@
    </tbody>
 </table>
 
-### Game services
+### Services
 <table>
    <thead>
       <tr>
@@ -601,6 +601,13 @@
       </tr>
       <tr>
          <td><a href="https://store.steampowered.com/" rel="nofollow">Steam</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.wix.com/" rel="nofollow">Wix</a></td>
          <td></td>
          <td></td>
          <td></td>
