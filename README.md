@@ -309,7 +309,6 @@
          <td><a href="https://twitter.com/pchandrasekar" rel="nofollow">Prashanth Chandrasekar</a></td>
          <td><a href="https://www.linkedin.com/in/pchandrasekar" rel="nofollow">Prashanth Chandrasekar</a></td>
          <td></td>
-         <td></td>
          <td align="center"></td>
       </tr>
       <tr>
