@@ -101,7 +101,6 @@
          <td><a href="https://twitter.com/rvm_io" rel="nofollow">rvm</a> - <a href="https://twitter.com/dhh" rel="nofollow">David Heinemeier Hansson</a></td>
          <td></td>
          <td></td>
-         <td></td>
          <td align="center"></td>
       </tr>
       <tr>
@@ -309,7 +308,6 @@
          <td><a href="https://stackexchange.com/" rel="nofollow">Stack Exchange</a></td>
          <td><a href="https://twitter.com/pchandrasekar" rel="nofollow">Prashanth Chandrasekar</a></td>
          <td><a href="https://www.linkedin.com/in/pchandrasekar" rel="nofollow">Prashanth Chandrasekar</a></td>
-         <td></td>
          <td></td>
          <td align="center"></td>
       </tr>
