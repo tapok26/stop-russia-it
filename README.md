@@ -86,7 +86,7 @@
 | [PHP](https://www.php.net/) | | | | |
 | [GO](https://go.dev/) | | | | |
 | [.NET, C, C++, C#, JAVA, etc.](https://docs.microsoft.com/en-us/documentation/) | | | | |
-| [Ruby](https://ruby-doc.org/) | | | | |
+| [Ruby](https://ruby-doc.org/) | [Yukihiro Matzmotto](https://twitter.com/yukihiro_matz) | | | |
 | [JAVA](https://docs.oracle.com/) | | | | |
 | [hexdocs](https://hexdocs.pm/) | | | | |
 | [Elixir](https://elixir-lang.org/) | | | | |
