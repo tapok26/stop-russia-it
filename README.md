@@ -13,8 +13,8 @@
 * [Russian (Русский)](ru/README.md)
 
 ## Important!
-### Terrorists use Google maps tags to adjust the fires!! [Vote here!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
 ### Voting in Figma for the shutdown. [Vote!](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263)
+### Ukrainians and the whole world [send Putin to Jupiter](https://putler.io/).
 ### [Real ways you can help Ukraine](https://how-to-help-ukraine-now.super.site/)
 ***
 
@@ -114,6 +114,12 @@
 | [KeyCDN](https://www.keycdn.com/) | | | | |
 | [Rackspace](https://www.rackspace.com/) | | | | |
 | [CacheFly](https://www.cachefly.com/) | | | | |
+
+### Game services
+| Name         | CEO Twitter | CEO Linkedin | Vote | With 🇺🇦 |
+| ------------ | ----------- | ------------ | ---- | :-----: |
+| [PlayStation](https://store.playstation.com/) | | | | |
+| [Steam](https://store.steampowered.com/) | | | | |
 
 ### Companies, Software, Activations
 

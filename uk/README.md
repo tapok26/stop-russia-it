@@ -13,8 +13,8 @@
 * [Russian (Русский)](../ru/README.md)
 
 ## Важливо!
-### Терористи використовують теги на Google Maps, щоб коригувати вогонь!! [Голосуй тут!](https://support.google.com/maps/thread/152809911/terrorists-use-google-maps-tags-to-adjust-the-fires-please-help)
 ### На Figma збирають голоси на відключення. [Проголосуй!](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263)
+### [Відправ Путіна на Юпітер](https://putler.io/).
 ### [Реальні способи допомогти Україні](https://how-to-help-ukraine-now.super.site/)
 ***
 
@@ -114,6 +114,12 @@
 | [KeyCDN](https://www.keycdn.com/) | | | | |
 | [Rackspace](https://www.rackspace.com/) | | | | |
 | [CacheFly](https://www.cachefly.com/) | | | | |
+
+### Ігрові сервіси
+| Ім'я         | CEO Twitter | CEO Linkedin | Голосування | Разом з 🇺🇦 |
+| ------------ | ----------- | ------------ | ----------- |  :-----:  |
+| [PlayStation](https://store.playstation.com/) | | | | |
+| [Steam](https://store.steampowered.com/) | | | | |
 
 ### Компанії, Програмне забезпечення, Активації
 
