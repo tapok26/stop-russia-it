@@ -55,36 +55,36 @@
       </tr>
       <tr>
          <td><a href="https://www.npmjs.com/" rel="nofollow">npm</a></td>
-         <td><a href="https://twitter.com/izs" rel="nofollow">Isaac Z. Schlueter</a></td>
+         <td><a href="https://twitter.com/npmjs" rel="nofollow">npm</a> - <a href="https://twitter.com/izs" rel="nofollow">Isaac Z. Schlueter</a></td>
          <td><a href="https://www.linkedin.com/in/isaacschlueter/" rel="nofollow">Isaac Z. Schlueter</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://yarnpkg.com/" rel="nofollow">yarn</a></td>
-         <td><a href="https://twitter.com/geofree" rel="nofollow">Jeffrey Krause</a></td>
+         <td><a href="https://twitter.com/yarnpkg" rel="nofollow">yarn</a> - <a href="https://twitter.com/geofree" rel="nofollow">Jeffrey Krause</a></td>
          <td><a href="https://www.linkedin.com/in/jeffreykrause" rel="nofollow">Jeffrey Krause</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://getcomposer.org/" rel="nofollow">composer</a></td>
-         <td></td>
+         <td><a href="https://twitter.com/samhulick" rel="nofollow">Sam Hulick</a></td>
          <td></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://pypi.org/" rel="nofollow">pypi</a></td>
-         <td></td>
+         <td><a href="https://twitter.com/pypi" rel="nofollow">pypi</a></td>
          <td></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://hub.docker.com/" rel="nofollow">Docker Hub</a></td>
-         <td><a href="https://twitter.com/scottcjohnston" rel="nofollow">Scott Johnson</a></td>
-         <td><a href="https://www.linkedin.com/in/scottcjohnston/" rel="nofollow">Scott Johnson</a></td>
+         <td><a href="https://twitter.com/docker" rel="nofollow">docker</a> - <a href="https://twitter.com/scottcjohnston" rel="nofollow">Scott Johnson</a> - <a href="https://twitter.com/solomonstre/" rel="nofollow">Solomon Hykes</a></td>
+         <td><a href="https://www.linkedin.com/in/scottcjohnston/" rel="nofollow">Scott Johnson</a> - <a href="https://www.linkedin.com/in/solomonhykes/" rel="nofollow">Solomon Hykes</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
@@ -97,6 +97,7 @@
       </tr>
       <tr>
          <td><a href="https://rvm.io/" rel="nofollow">Ruby Version Manager</a></td>
+         <td><a href="https://twitter.com/rvm_io" rel="nofollow">rvm</a> - <a href="https://twitter.com/dhh" rel="nofollow">David Heinemeier Hansson</a></td>
          <td></td>
          <td></td>
          <td></td>
@@ -174,7 +175,7 @@
       </tr>
       <tr>
          <td><a href="https://hex.pm/" rel="nofollow">hexpm</a></td>
-         <td></td>
+         <td><a href="https://twitter.com/hexpm" rel="nofollow">hexpm</a></td>
          <td></td>
          <td></td>
          <td align="center"></td>
@@ -206,28 +207,28 @@
    <tbody>
       <tr>
          <td><a href="https://github.com/">Github</a></td>
-         <td></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/github" rel="nofollow">Github</a> - <a href="https://twitter.com/natfriedman" rel="nofollow">Nat Friedman</a> - <a href="https://twitter.com/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
+         <td><a href="https://www.linkedin.com/in/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
+         <td><a href="https://github.com/github/feedback/discussions/12042" rel="nofollow">Discussion</a></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://about.gitlab.com/" rel="nofollow">Gitlab</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/sytses" rel="nofollow">Sid Sijbrandij</a></td>
+         <td><a href="https://www.linkedin.com/in/sijbrandij/" rel="nofollow">Sid Sijbrandij</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://bitbucket.org/" rel="nofollow">Bitbucket</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/bitbucket" rel="nofollow">Bitbucket</a> - <a href="https://twitter.com/scottfarkas" rel="nofollow">Scott Farquhar</a> - <a href="https://twitter.com/jespern" rel="nofollow">Jesper Noehr</a></td>
+         <td><a href="https://www.linkedin.com/in/scottfarquhar/" rel="nofollow">Scott Farquhar</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://gitea.io/" rel="nofollow">Gitea</a></td>
-         <td></td>
+         <td><a href="https://twitter.com/giteaio" rel="nofollow">Gitea</a></td>
          <td></td>
          <td></td>
          <td align="center"></td>
@@ -252,22 +253,29 @@
    <tbody>
       <tr>
          <td><a href="https://www.figma.com/" rel="nofollow">Figma</a></td>
-         <td></td>
-         <td></td>
-         <td><a href="https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263" rel="nofollow">Проголосуй!</a></td>
+         <td><a href="https://twitter.com/figma" rel="nofollow">Figma</a> - <a href="https://twitter.com/zoink" rel="nofollow">Dylan Field</a> - <a href="https://twitter.com/evanwallace" rel="nofollow">Evan Wallace</a></td>
+         <td><a href="https://www.linkedin.com/in/dylanfield/" rel="nofollow">Dylan Field</a></td>
+         <td><a href="https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263" rel="nofollow">Vote!</a></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://www.behance.net/" rel="nofollow">Behance</a></td>
+         <td><a href="https://twitter.com/behance" rel="nofollow">Behance</a> - <a href="https://twitter.com/scottbelsky" rel="nofollow">Scott Belsky</a> - <a href="https://www.linkedin.com/in/scottbelsky/" rel="nofollow">Scott Belsky</a></td>
          <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.adobe.com/" rel="nofollow">Adobe</a></td>
+         <td><a href="https://twitter.com/adobe" rel="nofollow">Adobe</a> - <a href="https://twitter.com/scottbelsky" rel="nofollow">Scott Belsky</a> - <a href="https://www.linkedin.com/in/scottbelsky/" rel="nofollow">Scott Belsky</a></td>
          <td></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://dribbble.com/" rel="nofollow">Dribble</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/dribbble" rel="nofollow">Dribble</a> - <a href="https://twitter.com/zack415" rel="nofollow">Zack Onisko</a></td>
+         <td><a href="https://www.linkedin.com/in/zack415/" rel="nofollow">Zack Onisko</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
@@ -614,6 +622,27 @@
          <td></td>
          <td align="center"></td>
       </tr>
+      <tr>
+         <td><a href="https://www.epicgames.com/" rel="nofollow">Epic Game</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://unity.com/" rel="nofollow">Unity Technologies</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.unrealengine.com/" rel="nofollow">Unreal Engine</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
    </tbody>
 </table>
 
@@ -636,6 +665,9 @@
     - Блокування доступу для планувань
 
 - **[Skype](https://www.skype.com/)**
+    - Блокування доступу для спілкування
+
+- **[Zoom](https://zoom.us/)**
     - Блокування доступу для спілкування
 
 ### Хмарні провайдери
